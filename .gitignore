@@ -1,0 +1,17 @@
+venv/
+.env
+__pycache__/
+*.py[cod]
+.chroma/
+chroma_db/
+agentic_chunking.py
+multi_modal_rag.ipynb
+recursive_character_text_spliiter.py
+requirements.txt
+retrieval_methods.py
+semantic_chunking.py
+synthetic_questions.txt
+docs/
+db/
+
+db/
